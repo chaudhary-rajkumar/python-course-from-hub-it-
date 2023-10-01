@@ -1,0 +1,23 @@
+hello hi this is sample file of file handling
+and i am going to append some text in this file so 
+
+Rajkumar Chaudhary
+Address : Rohini-3 , Rupandehi 
+Cite : Bhairahwa
+Country : Nepal 
+Rajkumar Chaudhary
+Address : Rohini-3 , Rupandehi 
+Cite : Bhairahwa
+Country : Nepal
+ 
+hello hi this is sample file of file handling
+and i am going to append some text in this file so 
+
+Rajkumar Chaudhary
+Address : Rohini-3 , Rupandehi 
+Cite : Bhairahwa
+Country : Nepal 
+Rajkumar Chaudhary
+Address : Rohini-3 , Rupandehi 
+Cite : Bhairahwa
+Country : Nepal 

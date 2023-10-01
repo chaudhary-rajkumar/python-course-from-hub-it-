@@ -1,0 +1,9 @@
+This is first line of sales.txt file 
+here i am just writing anything 
+to make lines in my file 
+ok but i am learning file handling in this 
+program 
+so my 100k is very far but trying ro reach out 
+plese god karado
+jay shree radhe jay shree ram jay shiv shankar 
+jay mata ji

@@ -1,0 +1,6 @@
+This is creating file with absolute path
+hello how are you 
+this is nothing
+what about you
+how are you doing 
+where are you

@@ -1,0 +1,11 @@
+To install virtualenv type command:
+pip install virtualenv
+
+
+to create virtualenv with its name rajenv
+virtualenv rajenv
+
+
+
+
+to activatae the virtualbox

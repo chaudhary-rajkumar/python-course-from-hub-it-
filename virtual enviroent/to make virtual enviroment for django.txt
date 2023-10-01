@@ -1,0 +1,34 @@
+make virtual enviroment for your django and python
+
+
+
+1)Open your powershell with amdinistration
+Ans=)Open as administration and type cd location of file
+
+
+
+2)install venv
+Ans=)pip install virtualenv
+
+
+
+3)To make virtual enviroment file
+Ans=)virtualenv raj
+
+
+
+4)To activate your virtual enviroment when simply not activating type command
+Ans=)set-executionpolicy remotesigned
+
+
+
+5)Now Activate your virtual enviroment type command
+Ans=)raj\Scripts\activate
+
+
+
+6)Now to See all the requiremnts for our virtual enviroment type command 
+Ans=)pip freeze > requirement.txt
+
+
+
