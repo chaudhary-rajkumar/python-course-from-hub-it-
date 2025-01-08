@@ -1,16 +1,16 @@
  # arithhemic operator
 # (+,-,*,/,%,**,//)
 
-# a=20
-# b=6
+a=22
+b=6
 # print(a+b)
 # print(a-b)
 # print(a*b)
 # print(a/b)
-# print(a%b)
+print(a%b)
 # print(2**3)
-# print(6^3)
-# print(8//3)
+print(6^3)
+print(8//3)
 
 # comprasion operator
 # (>,<, >=,<= ,==,!=) #return value in boolean either True False

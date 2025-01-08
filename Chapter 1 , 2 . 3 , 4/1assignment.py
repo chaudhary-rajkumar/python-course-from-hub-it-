@@ -20,8 +20,9 @@ if len(a)<=5:
 else:
     first_char=a[0:3]
     second_char=a[len(a)-3:]
-    
     print(first_char+second_char)
+
+
 
 
 # THIRD QUESTION

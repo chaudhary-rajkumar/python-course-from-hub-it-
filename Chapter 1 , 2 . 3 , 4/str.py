@@ -50,8 +50,8 @@ toggle_string=a.swapcase()
 print(toggle_string)
 
 
-str="251"
-print(str.isdigit())
+# str="251"
+# print(str.isdigit())
 
 
 # str=input("enter string")

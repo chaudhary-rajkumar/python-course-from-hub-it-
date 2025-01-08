@@ -143,7 +143,6 @@
 
 
 # Q.N. 12
-1
 
 # num=int(input("enter any number please \n"))     #7
 # for i in range (2,num):
@@ -151,7 +150,7 @@
 #         print("not prime ")
 #         break
 # else:
-#         print("prime")
+#     print("prime")
 
 
 

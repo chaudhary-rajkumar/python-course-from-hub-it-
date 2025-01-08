@@ -1,7 +1,7 @@
 # dic={key:value}
 
-# detail={"name":"hello", "address":"Nepal", "age":15}
-# print(detail["name"]) #accessing particular value
+detail={"name":"hello", "address":"Nepal", "age":15}
+print(detail["name"]) #accessing particular value
 
 # detail["name"]="rajumar" #update
 # print(detail['name'])
@@ -47,6 +47,6 @@
 
 
 
-person={'name':'jessa','country':'USA','telephone':'+977532805'}
-print(person['name'])
+# person={'name':'jessa','country':'USA','telephone':'+977532805'}
+# print(person['name'])
 

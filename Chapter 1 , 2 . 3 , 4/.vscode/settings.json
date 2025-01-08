@@ -1,5 +1,9 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "window.autoDetectColorScheme": true,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+
+    "code-runner.preserve Focus": false,
+    "code-runner.preserveFocus": false,
+    "code-runner.runInterminal": true,
 }

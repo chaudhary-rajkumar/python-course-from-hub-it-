@@ -16,4 +16,3 @@ character = input("Enter a single character: ")
 count = sequence.count(character)
 
 print("Total occurrences of '{}' in the sequence: {}".format(character, count))
-*
